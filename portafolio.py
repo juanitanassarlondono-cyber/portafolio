@@ -488,7 +488,7 @@ st.markdown("""
     <p style="margin-bottom:16px;">
         ¿Tienes preguntas o comentarios sobre alguna de las aplicaciones?
     </p>
-    <a href="mailto:mjruab@eafit.edu.co" class="contact-item">
+    <a href="mailto:jnassarl@eafit.edu.co" class="contact-item">
         ✉️ mjruab@eafit.edu.co
     </a>
     <br><br>
@@ -502,6 +502,6 @@ st.markdown("""
 st.markdown("---")
 st.markdown("""
 <p class="footer-text">
-    Desarrollado con ❤️ por María José Rúa · Streamlit · 2026
+    Desarrollado con ❤️ por Juanita Nassar · Streamlit · 2026
 </p>
 """, unsafe_allow_html=True)

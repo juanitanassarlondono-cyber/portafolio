@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Portafolio - María José Rúa", 
+st.set_page_config(page_title="Portafolio - Juanita Nassar Londoño", 
                    page_icon="🌟", layout="wide")
 
 st.markdown("""
@@ -110,7 +110,7 @@ hr { border-color: #ffe082 !important; }
 # ── Header ─────────────────────────────────────────────────────────
 st.markdown("""
 <div class="header-card">
-    <h1 style="margin:0; font-size:2.2rem;">🌟 Portafolio de Apps de María José Rúa</h1>
+    <h1 style="margin:0; font-size:2.2rem;">🌟 Portafolio de Apps de Juanita Nassar</h1>
     <p style="margin:12px 0 4px 0; color:#888; font-size:1rem;">
         Colección de aplicaciones interactivas desarrolladas con Streamlit,
         Python y herramientas de inteligencia artificial.
@@ -128,133 +128,133 @@ apps = [
         "nombre": "Primera App",
         "desc": "Introducción a Streamlit: columnas, checkboxes, radio buttons y selectbox interactivos.",
         "tags": ["Streamlit", "Interfaz"],
-        "link": "https://mjruab-app1.streamlit.app/"
+        "link": "https://intro2-2reritgmdnxmmx2hbeymx4.streamlit.app/"
     },
     {
         "emoji": "🎤",
         "nombre": "Traductor de Voz",
         "desc": "Traduce voz a texto en tiempo real y genera audio en múltiples idiomas usando gTTS y Google Translate.",
         "tags": ["Voz", "Traducción", "Audio"],
-        "link": "https://traductor-mjruab.streamlit.app/"
+        "link": "https://traductor-8ux5cbmku7hev4pmjstw9h.streamlit.app/"
     },
     {
         "emoji": "🔊",
         "nombre": "Texto a Audio",
         "desc": "Convierte cualquier texto escrito en audio descargable con selección de idioma y velocidad.",
         "tags": ["gTTS", "Audio", "NLP"],
-        "link": "https://voice-to-text-evidence.streamlit.app/"
+        "link": "https://project2-lnceopubbb2w37xeax7qdc.streamlit.app/"
     },
     {
         "emoji": "😊",
         "nombre": "Análisis de Sentimiento",
         "desc": "Detecta si un texto es positivo, negativo o neutral usando TextBlob y Google Translate.",
         "tags": ["TextBlob", "Sentimiento", "NLP"],
-        "link": "https://sentimenta-mjruab.streamlit.app/"
+        "link": "https://sentimentasentimientoab1.streamlit.app/"
     },
     {
         "emoji": "📝",
         "nombre": "Analizador de Texto",
         "desc": "Análisis completo de frecuencia de palabras, sentimiento por frases y subjetividad.",
         "tags": ["TextBlob", "Frecuencia", "NLP"],
-        "link": "https://mjruab-textapp.streamlit.app/"
+        "link": "https://kkaxwqdkgyxunab4ruhnhl.streamlit.app/"
     },
     {
         "emoji": "☁️",
         "nombre": "WordCloud Studio",
         "desc": "Genera nubes de palabras personalizadas desde cualquier texto con múltiples paletas y formas.",
         "tags": ["WordCloud", "Visualización"],
-        "link": "https://wordcloud-kie8fsbgddwfascuzwafxe.streamlit.app/"
+        "link": "https://wordcloudstudio-i9apvsks8xtkcvwgbqqzga.streamlit.app/"
     },
     {
         "emoji": "🔍",
         "nombre": "TF-IDF en Inglés",
         "desc": "Busca el documento más relevante para una pregunta usando TF-IDF y similitud coseno.",
         "tags": ["TF-IDF", "Sklearn", "NLP"],
-        "link": "https://tf-idf-mjruab.streamlit.app/"
+        "link": "https://5fh6uxnxd4c2t5bpfx6da5.streamlit.app/"
     },
     {
         "emoji": "🔎",
         "nombre": "TF-IDF en Español",
         "desc": "Versión en español del motor TF-IDF con stemming y visualización de similitudes.",
         "tags": ["TF-IDF", "Español", "NLP"],
-        "link": "https://tdfesp-mjruab.streamlit.app/"
+        "link": "https://tdfesp-vxb6zgdbrskgp3rlbgmf9b.streamlit.app/"
     },
     {
         "emoji": "📷",
         "nombre": "OCR App",
         "desc": "Extrae texto de imágenes usando reconocimiento óptico de caracteres con filtros visuales.",
         "tags": ["OCR", "OpenCV", "Pytesseract"],
-        "link": "https://ocrmjruab.streamlit.app/"
+        "link": "https://9arxcch7q8mjuqcoawmkqe.streamlit.app/"
     },
     {
         "emoji": "📷🔊",
         "nombre": "OCR + Audio",
         "desc": "Extrae texto de imágenes con OCR y lo traduce y convierte a audio en múltiples idiomas.",
         "tags": ["OCR", "Audio", "Traducción"],
-        "link": "https://ocr-audio-mjruab.streamlit.app/"
+        "link": "https://ocr-audio-stwb49vyjn5jzwlhtnppkn.streamlit.app/"
     },
     {
         "emoji": "🖼️",
         "nombre": "Análisis de Imagen",
         "desc": "Interpreta imágenes y obtén descripciones inteligentes en segundos.",
         "tags": ["Visión", "IA", "Imágenes"],
-        "link": "https://visionapp-mjruab.streamlit.app/"
+        "link": "https://visionapp-bqjnbpags6hkl7xncro5ky.streamlit.app/"
     },
     {
         "emoji": "💬",
         "nombre": "Chat PDF",
         "desc": "Chatbot para la interacción con documentos en PDF.",
         "tags": ["PDF", "Chatbot", "IA"],
-        "link": "https://chatpdf-mjruab.streamlit.app/"
+        "link": "https://chatpdf2-cqfnxl9ki4fho5agwrzabv.streamlit.app/"
     },
     {
         "emoji": "🎨",
         "nombre": "Tablero de Dibujo",
         "desc": "Lienzo interactivo para dibujar libremente con distintos colores y tamaños de pincel.",
         "tags": ["Canvas", "Dibujo", "Interactivo"],
-        "link": "https://tableroparadibujo-mjruab.streamlit.app/"
+        "link": "https://tableropd-rudf8swfhdxnwzcsmj5iwb.streamlit.app/"
     },
     {
         "emoji": "✏️",
-        "nombre": "Reconocimiento de Dibujos",
+        "nombre": "Tablero Inteligente",
         "desc": "Dibuja y deja que la IA identifique qué figura o elemento has trazado en tiempo real.",
         "tags": ["Visión", "IA", "Dibujo"],
-        "link": "https://drawrecog-mjruab.streamlit.app/"
+        "link": "https://drawrecog-8jiunjphggpxnbkgdfgh3s.streamlit.app/"
     },
     {
         "emoji": "🖊️",
         "nombre": "Reconocimiento de Escritura",
         "desc": "Reconoce texto manuscrito a partir de trazos realizados directamente en la interfaz.",
         "tags": ["Handwriting", "OCR", "IA"],
-        "link": "https://handw-mjruab.streamlit.app/"
+        "link": "https://cdjkjo77zgswcb9uqkwzar.streamlit.app/"
     },
     {
         "emoji": "🧠",
         "nombre": "Insight Sketch",
         "desc": "Dibuja cualquier cosa y la IA interpreta tu trazo para contarte datos curiosos y enseñarte sobre lo que has dibujado.",
         "tags": ["Visión", "IA", "Dibujo"],
-        "link": "https://realcontextimplementation-mjruab.streamlit.app/"
+        "link": "https://insights-3uwdgx5puvdevrsh9fcf9f.streamlit.app/"
     },
     {
         "emoji": "📥",
         "nombre": "Receptor MQTT",
         "desc": "Recibe y muestra en tiempo real los mensajes publicados en un topic MQTT desde cualquier dispositivo.",
         "tags": ["MQTT", "IoT", "Tiempo real"],
-        "link": "https://recepmqtt-mjruab.streamlit.app/"
+        "link": "https://recepmqtt-meoq7wkb5gq5tg3vjwtdmf.streamlit.app/"
     },
     {
         "emoji": "📤",
         "nombre": "Emisor MQTT",
         "desc": "Publica mensajes a un broker MQTT para controlar dispositivos y sistemas conectados.",
         "tags": ["MQTT", "IoT", "Publicación"],
-        "link": "https://sendcmqtt-mjruab.streamlit.app/"
+        "link": "https://sendcmqtt-aqkmbjy25yalpw3o5krxba.streamlit.app/"
     },
     {
         "emoji": "🎙️",
         "nombre": "Control por Voz MQTT",
         "desc": "Reconoce comandos de voz y los publica automáticamente en un broker MQTT para control de dispositivos.",
         "tags": ["Voz", "MQTT", "IoT"],
-        "link": "https://voicecontrol-mjruab.streamlit.app/"
+        "link": "https://voicecontrol-mmbjkp3utx67fcxkgyut3r.streamlit.app/"
     },
 ]
 

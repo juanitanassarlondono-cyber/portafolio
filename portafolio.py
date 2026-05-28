@@ -489,7 +489,7 @@ st.markdown("""
         ¿Tienes preguntas o comentarios sobre alguna de las aplicaciones?
     </p>
     <a href="mailto:jnassarl@eafit.edu.co" class="contact-item">
-        ✉️ mjruab@eafit.edu.co
+        ✉️ jnassarl@eafit.edu.co
     </a>
     <br><br>
     <p style="color:rgba(234,247,255,0.48); font-size:0.82rem; margin:0;">
